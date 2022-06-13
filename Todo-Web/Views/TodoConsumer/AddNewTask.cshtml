@@ -1,0 +1,15 @@
+﻿@model Todo_DataAccessLayer.Models.Todo
+@{
+    ViewData["Title"] = "AddNewTask";
+}
+
+<h1>AddNewTask</h1>
+
+<div class="mb-3">
+    @using (Html.BeginForm())
+    {
+          <input  type="text" class="mb-2 form-control" id="exampleFormControlInput1" placeholder="Enter Task Name">
+          <button type="submit" class="btn btn-primary">Submit Task</button>
+    }
+  
+</div>

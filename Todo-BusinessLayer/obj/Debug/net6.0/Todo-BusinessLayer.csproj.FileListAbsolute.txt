@@ -1,0 +1,15 @@
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\bin\Debug\net6.0\Todo-BusinessLayer.deps.json
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\bin\Debug\net6.0\Todo-BusinessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\bin\Debug\net6.0\Todo-BusinessLayer.pdb
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.pdb
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.AssemblyInfo.cs
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.csproj.CopyComplete
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\refint\Todo-BusinessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\Todo-BusinessLayer.pdb
+C:\Users\CMED\source\repos\Todo-Web\Todo-BusinessLayer\obj\Debug\net6.0\ref\Todo-BusinessLayer.dll

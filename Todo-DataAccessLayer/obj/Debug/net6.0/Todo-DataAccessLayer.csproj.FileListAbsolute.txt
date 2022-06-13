@@ -1,0 +1,14 @@
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.deps.json
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.runtimeconfig.json
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\bin\Debug\net6.0\Todo-DataAccessLayer.pdb
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.AssemblyInfo.cs
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\refint\Todo-DataAccessLayer.dll
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.pdb
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\Todo-DataAccessLayer.genruntimeconfig.cache
+C:\Users\CMED\source\repos\Todo-Web\Todo-DataAccessLayer\obj\Debug\net6.0\ref\Todo-DataAccessLayer.dll
